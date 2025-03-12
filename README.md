@@ -9,3 +9,6 @@ I am a student at Blue Ridge Community College. My interests include:
 - homelab
   - I have a raspberry pi running docker and cockpit
   - services i run include Pi-Hole, Wireguard, Immich, and a network share.
+ 
+    Here is a profile photo:
+    ![profile photo](final%20project.jpg)
